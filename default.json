@@ -1,0 +1,11 @@
+{
+    "md.ip": "127.0.0.1",
+    "md.port": 8000,
+    "md.protocol": "udp",
+    "md.username": "test",
+    "md.password": "test",
+    "md.start_time": "2019-01-01 00:00:00"
+    "md.end_time": "2019-12-12 00:00:00"
+     
+    "trade_setting": {}
+}
